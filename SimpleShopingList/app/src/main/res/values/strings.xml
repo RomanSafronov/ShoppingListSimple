@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleShopingList</string>
+    <string name="add_record">Добавить запись</string>
+    <string name="delete_record">Удалить запись</string>
+    <string name="edit_record">Редактировать запись</string>
+    <string name="clear_all">Очистить список</string>
+    <string name="tv_activity_add">ДОБАВИТЬ ЗАПИСЬ</string>
+    <string name="tv_activity_edit">РЕДАКТИРОВАТЬ ЗАПИСЬ</string>
+</resources>
